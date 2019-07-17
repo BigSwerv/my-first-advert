@@ -32,6 +32,7 @@ ul {
   li a:hover {
     background-color: #111;
   }
+<<<<<<< HEAD
 
 
   table, th, td, tr {
@@ -57,3 +58,19 @@ ul {
    
 
     
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  
+=======
+=======
+  img {
+    vertical-align: center;
+  }
+  #col-1 {
+    padding-right: 528px
+  }
+>>>>>>> 636204a2b47aba88c5a954baa306ea7330fb0342
+}
+>>>>>>> 1b31bdcafe990a9f3681f8e627f2d110859d0d39
+>>>>>>> dfe7979cbd79cdf83c649c112d1c091cfdc80062
