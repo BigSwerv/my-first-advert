@@ -32,13 +32,10 @@ ul {
   li a:hover {
     background-color: #111;
   }
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
 
   table, th, td, tr {
-    border: 30px solid black;
+    border: 45px solid black;
   }
   th {
     font-size: 50px;
@@ -71,9 +68,10 @@ ul {
     vertical-align: center;
   }
   #col-1 {
-    padding-right: 528px
+    padding-right: 60px
   }
 >>>>>>> 636204a2b47aba88c5a954baa306ea7330fb0342
 }
 >>>>>>> 1b31bdcafe990a9f3681f8e627f2d110859d0d39
->>>>>>> dfe7979cbd79cdf83c649c112d1c091cfdc80062
+> dfe7979cbd79cdf83c649c112d1c091cfdc80062
+>>>>>>
