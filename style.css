@@ -21,3 +21,9 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  img {
+    vertical-align: center;
+  }
+  #col-1 {
+    padding-right: 528px
+  }
