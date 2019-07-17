@@ -1,3 +1,14 @@
+div {
+  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 0);
+  width: 300px;
+  border: 40px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,10 +32,53 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+
+  table, th, td, tr {
+    border: 45px solid black;
+  }
+  th {
+    font-size: 50px;
+  }
+
+  tr {
+    font-size: 25px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 750px;
+    font-size: 50px;
+  }
+  
+
+  
+  
+   
+
+    
+>>>>>>> 68b77e6532b7079c3e95bca51be63d82dcdfcf79
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  
+=======
+=======
   img {
     vertical-align: center;
   }
+<<<<<<< HEAD
   #col-2 {
     padding-right: 528px;
   }
 
+=======
+  #col-1 {
+    padding-right: 60px
+  }
+>>>>>>> 636204a2b47aba88c5a954baa306ea7330fb0342
+}
+>>>>>>> 1b31bdcafe990a9f3681f8e627f2d110859d0d39
+> dfe7979cbd79cdf83c649c112d1c091cfdc80062
+>>>>>>
+>>>>>>> 2d16763c64af12a863777409c54844ec4d10b640
