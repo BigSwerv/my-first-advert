@@ -1,3 +1,14 @@
+div {
+  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 0);
+  width: 300px;
+  border: 40px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,4 +32,45 @@ ul {
   li a:hover {
     background-color: #111;
   }
+<<<<<<< HEAD
+
+
+  table, th, td, tr {
+    border: 30px solid black;
+  }
+  th {
+    font-size: 50px;
+  }
+
+  tr {
+    font-size: 25px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 750px;
+    font-size: 50px;
+  }
+  
+
+  
+  
+   
+
+    
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  
+=======
+=======
+  img {
+    vertical-align: center;
+  }
+  #col-1 {
+    padding-right: 528px
+  }
+>>>>>>> 636204a2b47aba88c5a954baa306ea7330fb0342
 }
+>>>>>>> 1b31bdcafe990a9f3681f8e627f2d110859d0d39
+>>>>>>> dfe7979cbd79cdf83c649c112d1c091cfdc80062
