@@ -3,7 +3,7 @@ ul {
     margin: 5;
     padding: 4;
     overflow: hidden;
-    background-color: #333;
+    background-color:purple;
   }
   
   li {
@@ -19,8 +19,12 @@ ul {
   }
   
   li a:hover {
+<<<<<<< HEAD
+    background-color: cyan;
+=======
     background-color: #111;
   
+>>>>>>> d7c6d91a9a3fc2ae7808ccf8fbda259560ab68e7
   }
 
 <<<<<<< HEAD
@@ -123,6 +127,8 @@ ul {
   }
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 table, th, td{
 border: 50px;
 height: 192px;
@@ -135,3 +141,4 @@ width: 42%;
 >>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
 >>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
 >>>>>>> 35f039560d11c7ae30b3d2b0df729eeecec69e5d
+>>>>>>> d7c6d91a9a3fc2ae7808ccf8fbda259560ab68e7
