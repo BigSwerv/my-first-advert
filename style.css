@@ -22,6 +22,7 @@ ul {
     background-color: #111;
   }
 
+<<<<<<< HEAD
 
   table, th, td, tr {
     border: 45px solid black;
@@ -40,6 +41,8 @@ ul {
     font-size: 50px;
   }
 
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
   img {
     vertical-align: center;
   }
@@ -47,7 +50,10 @@ ul {
     padding-right: 528px;
   }
 
+<<<<<<< HEAD
   #col-1 {
     padding-right: 60px
   }
 
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
