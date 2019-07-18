@@ -22,10 +22,69 @@ ul {
     background-color: #111;
   }
 
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+
   img {
     vertical-align: center;
   }
   #col-2 {
     padding-right: 528px;
   }
+  .header {
+    padding: 30px;
+    text-align: center;
+    background: cyan;
+  }
+  
+  .header h1 {
+    font-size: 50px;}
 
+    .leftcolumn {   
+      float: left;
+      width: 75%;
+    }
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .card {
+      background-color: lightgrey;
+      padding: 20px;
+      margin-top: 20px;
+      
+    }
+    
+    
+    /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+  }
+  
