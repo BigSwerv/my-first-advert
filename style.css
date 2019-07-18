@@ -22,6 +22,7 @@ ul {
     background-color: #111;
   }
 
+<<<<<<< HEAD
   * {
     box-sizing: border-box;
   }
@@ -32,6 +33,29 @@ ul {
     background: #f1f1f1;
   }
 
+=======
+<<<<<<< HEAD
+
+  table, th, td, tr {
+    border: 45px solid black;
+  }
+  th {
+    font-size: 50px;
+  }
+
+  tr {
+    font-size: 25px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 750px;
+    font-size: 50px;
+  }
+
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
+>>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
   img {
     vertical-align: center;
   }
@@ -58,6 +82,7 @@ ul {
       clear: both;
     }
 
+<<<<<<< HEAD
     .card {
       background-color: lightgrey;
       padding: 20px;
@@ -88,3 +113,12 @@ ul {
     margin-top: 20px;
   }
   
+=======
+<<<<<<< HEAD
+  #col-1 {
+    padding-right: 60px
+  }
+
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
+>>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
