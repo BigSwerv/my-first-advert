@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 4;
     overflow: hidden;
     background-color:purple;
   }
@@ -14,12 +14,17 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 35px 40px;
     text-decoration: none;
   }
   
   li a:hover {
+<<<<<<< HEAD
     background-color: cyan;
+=======
+    background-color: #111;
+  
+>>>>>>> d7c6d91a9a3fc2ae7808ccf8fbda259560ab68e7
   }
 
 <<<<<<< HEAD
@@ -58,9 +63,11 @@ ul {
 >>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
   img {
     vertical-align: center;
+    
+   
   }
   #col-2 {
-    padding-right: 528px;
+    padding-right: 100px;
   }
   .header {
     padding: 30px;
@@ -119,3 +126,19 @@ ul {
     padding-right: 60px
   }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+table, th, td{
+border: 50px;
+height: 192px;
+}
+table{ 
+width: 42%;
+}
+=======
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
+>>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
+>>>>>>> 35f039560d11c7ae30b3d2b0df729eeecec69e5d
+>>>>>>> d7c6d91a9a3fc2ae7808ccf8fbda259560ab68e7
