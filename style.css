@@ -23,6 +23,40 @@ ul {
   
   }
 
+<<<<<<< HEAD
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+
+=======
+<<<<<<< HEAD
+
+  table, th, td, tr {
+    border: 45px solid black;
+  }
+  th {
+    font-size: 50px;
+  }
+
+  tr {
+    font-size: 25px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 750px;
+    font-size: 50px;
+  }
+
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
+>>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
   img {
     vertical-align: center;
     
@@ -31,7 +65,64 @@ ul {
   #col-2 {
     padding-right: 100px;
   }
+  .header {
+    padding: 30px;
+    text-align: center;
+    background: cyan;
+  }
+  
+  .header h1 {
+    font-size: 50px;}
 
+    .leftcolumn {   
+      float: left;
+      width: 75%;
+    }
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+<<<<<<< HEAD
+    .card {
+      background-color: lightgrey;
+      padding: 20px;
+      margin-top: 20px;
+      
+    }
+    
+    
+    /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+  }
+  
+=======
+<<<<<<< HEAD
+  #col-1 {
+    padding-right: 60px
+  }
+
+<<<<<<< HEAD
 table, th, td{
 border: 50px;
 height: 192px;
@@ -39,3 +130,8 @@ height: 192px;
 table{ 
 width: 42%;
 }
+=======
+=======
+>>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
+>>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
+>>>>>>> 35f039560d11c7ae30b3d2b0df729eeecec69e5d
