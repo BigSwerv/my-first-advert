@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:purple;
   }
   
   li {
@@ -19,7 +19,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: cyan;
   }
 
 <<<<<<< HEAD
@@ -119,6 +119,3 @@ ul {
     padding-right: 60px
   }
 
-=======
->>>>>>> 537870243de5e40cfc9dede08b3302226253cda3
->>>>>>> 9e70c198567c575bc6dd09ccf498f8a91e957653
